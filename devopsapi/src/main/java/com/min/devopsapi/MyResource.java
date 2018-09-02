@@ -20,6 +20,6 @@ public class MyResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "Got it update! yes we made with jenkins with pipe line";
+        return "Got it update! yes we made with jenkins with pipe line git added";
     }
 }
