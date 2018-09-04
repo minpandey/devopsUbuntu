@@ -20,6 +20,6 @@ public class MyResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "pratiksha automation";
+        return "pratiksha automation poll every minutes";
     }
 }
